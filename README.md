@@ -1,4 +1,6 @@
 ### Peace be upon you. I'm 16 years old. I currently live in a small Russian town called Vidnoye. I'm a student of The Municipal Autonomous General Educational Institution "Vidnovsky Art and Technical Lyceum".
+### Apart from programming, I also enjoy studying history, linguistics and mathematics.
+
 ### Primary Programming Languages:
 - C
 - C++
