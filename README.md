@@ -12,7 +12,10 @@ Miscellaneous Programming Languages:
 - JS/TS
 - Lisp
 
-Language: Russian
-1st Foreign Language: English (C2)
-2nd Foreign Language: German (A2-B1)
+Language: Russian  
+
+1st Foreign Language: English (C2)  
+
+2nd Foreign Language: German (A2-B1)  
+
 3rd Foreign Language: Hebrew (A1)
