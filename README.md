@@ -12,7 +12,7 @@ Miscellaneous Programming Languages:
 - JS/TS
 - Lisp
 
-Language: Russian  
+Native Language: Russian  
 
 1st Foreign Language: English (C2)  
 
