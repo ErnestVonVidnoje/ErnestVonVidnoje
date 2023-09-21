@@ -1,18 +1,18 @@
-# Peace be upon you. I'm 16 years old. I currently live in a small Russian town called Vidnoye. I'm a student of The Municipal Autonomous General Educational Institution "Vidnovsky Art and Technical Lyceum".
-# Apart from programming, I also enjoy studying history, linguistics and mathematics.
+Peace be upon you. I'm 16 years old. I currently live in a small Russian town called Vidnoye. I'm a student of The Municipal Autonomous General Educational Institution "Vidnovsky Art and Technical Lyceum".
+Apart from programming, I also enjoy studying history, linguistics and mathematics.
 
-# Primary Programming Languages:
+Primary Programming Languages:
 - C
 - C++
 - Odin
 - Go
 
-# Miscellaneous Programming Languages:
+Miscellaneous Programming Languages:
 - ASM
 - JS/TS
 - Lisp
 
-# Language: Russian
-# 1st Foreign Language: English (C2)
-# 2nd Foreign Language: German (A2-B1)
-# 3rd Foreign Language: Hebrew (A1)
+Language: Russian
+1st Foreign Language: English (C2)
+2nd Foreign Language: German (A2-B1)
+3rd Foreign Language: Hebrew (A1)
