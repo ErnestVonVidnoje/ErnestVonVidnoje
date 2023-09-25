@@ -20,4 +20,4 @@ Native Language: Russian
 
 3rd Foreign Language: Hebrew (A1)  
 
-All of the pinned repositories are those, where i'm the creator/main contributor
+All of the pinned repositories are those where i'm the creator/main contributor
