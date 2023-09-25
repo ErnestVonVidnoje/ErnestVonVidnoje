@@ -18,4 +18,6 @@ Native Language: Russian
 
 2nd Foreign Language: German (A2-B1)  
 
-3rd Foreign Language: Hebrew (A1)
+3rd Foreign Language: Hebrew (A1)  
+
+All of the pinned repositories are those, where i'm the creator/main contributor
