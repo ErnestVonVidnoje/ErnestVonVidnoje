@@ -1,4 +1,4 @@
-Peace be upon you. I currently live in a small Russian town called Vidnoye. I'm a student of The Municipal Autonomous General Educational Institution "Vidnovsky Art and Technical Lyceum".
+Peace be upon you. I currently live in a small Russian town called Vidnoje. I'm a student of The Municipal Autonomous General Educational Institution "Vidnovsky Art and Technical Lyceum".
 Apart from programming, I also enjoy studying history, linguistics and mathematics.
 
 Primary Programming Languages:
